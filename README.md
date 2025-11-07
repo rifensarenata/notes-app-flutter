@@ -11,7 +11,7 @@ Aplikasi catatan sederhana built dengan Flutter dan Dart.
 
 ## 👥 Anggota Kelompok
 - RIFENSA RENATA MAULIDAH - UI Layer & Presentasi
--  - State Management & Business Logic
+- SILVIA AZZAHRA PUTRI NAZSWAH - State Management & Business Logic
 
 ## 🛠 Teknologi
 - Flutter 3.x
